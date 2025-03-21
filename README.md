@@ -159,7 +159,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## 📞 Contato
 
-Para dúvidas ou sugestões, entre em contato através de [seu-email@exemplo.com].
+Para dúvidas ou sugestões, entre em contato através de [carlossshenriqueee41@gmail.com].
 
 ---
 
