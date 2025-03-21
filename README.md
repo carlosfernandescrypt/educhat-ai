@@ -1,6 +1,6 @@
 # EduChat - Assistente Educacional Inteligente
 
-![EduChat Logo](https://via.placeholder.com/150x150.png?text=EduChat)
+![EduChat Logo](https://github.com/carlosfernandescrypt/educhat-ai/blob/master/front-end/EduChat.jpeg)
 
 ## 📚 Sobre o Projeto
 
